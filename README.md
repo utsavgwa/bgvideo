@@ -23,6 +23,17 @@ To use this template, follow these steps:
 
 This template is licensed under the MIT License. See the `LICENSE` file for more information.
 
+## Live Preview
+
+Site is live as [**_Timer_**](https://utsavsingh.me/bgvideo/), go and check it out!
+See how it works.
+
+URL for website is:
+
+```bash
+https://utsavsingh.me/bgvideo/
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
