@@ -25,13 +25,13 @@ This template is licensed under the MIT License. See the `LICENSE` file for more
 
 ## Live Preview
 
-Site is live as [**_Video Background Overlay_**](https://utsavsingh.me/bgvideo/), go and check it out!
+Site is live as [**_Video Background Overlay_**](https://utsavgwa.github.io/bgvideo/), go and check it out!
 See how it works.
 
 URL for website is:
 
 ```bash
-https://utsavsingh.me/bgvideo/
+https://utsavgwa.github.io/bgvideo/
 ```
 
 ## Contributing
